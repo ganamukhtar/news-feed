@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "slug": "visa-chase-hacking-claim",
+   "date": "2026-11-18",
+   "kicker": "Your money · What's real",
+   "title": "A hacking gang says it hit Visa and Chase, and gave them 48 hours. Here’s what’s real.",
+   "dek": "The gang hasn’t shown any proof. Visa says a vendor was hit, not Visa. Chase says its outage was a software bug. Here’s what to do with your cards anyway.",
+   "body": "<h3>The claim</h3>\n<p>A ransomware gang called n0n added Visa and JPMorgan Chase to its leak site this week, first reported by Cybernews on Nov. 17. It set a 48-hour window for negotiations before it says it will publish data it claims to have taken. It hasn’t said what kind of data or how much, and no sample has been reported.</p>\n<p>The group was first tracked in mid-September. The week before, it claimed Expedia as a victim.</p>\n<h3>What Visa says</h3>\n<p>Visa said it is aware of the claims and that the incident started at a third-party service provider in the Asia-Pacific region. It said its own systems were not involved or affected and that there is no sign payment data, including card numbers, was compromised. Visa hasn’t named the provider.</p>\n<h3>What Chase says</h3>\n<p>JPMorgan Chase said a recent service outage was caused by a software bug and that it found no evidence of a cyberattack. It hasn’t said whether anything connects that outage to the gang’s claims. So far the only overlap reported is the timing.</p>\n<h3>What you can do today</h3>\n<p>You don’t need to cancel your cards over an unproven claim. Do check your recent transactions, turn on purchase alerts in your bank’s app, and be careful with any email or text about “the Visa breach” that asks you to log in or confirm your card. Scammers follow headlines. Go to your bank’s app or the number on the back of your card instead.</p>\n<p class=\"forward\">A gang’s leak-site post is not proof, and a company’s statement isn’t the last word either. The 48-hour clock runs out this week. We’ll tell you what, if anything, gets released. Do you check your bank app every day?</p>",
+   "sources": "<ol>\n<li><a href=\"https://thepaypers.com/fraud-and-fincrime/news/ransomware-gang-n0n-claims-visa-and-jpmorgan-chase-as-victims\" target=\"_blank\" rel=\"noopener\">The Paypers, Nov 18, 2026</a>: n0n listings, 48-hour window, Visa and Chase responses, Expedia claim</li>\n<li><a href=\"https://cybernews.com/security/visa-jpmorgan-data-breach/\" target=\"_blank\" rel=\"noopener\">Cybernews, Nov 17, 2026</a>: original report of the listings and company statements</li>\n</ol>",
+   "credit": "Photo: Contact pad of a payment card chip, by Bautsch, CC0 (public domain).",
+   "imageAlt": "Extreme close-up of the gold contact pad on a payment card chip.",
+   "position": "center",
+   "image": "visa-chase-hacking-claim.jpg",
+   "share": "visa-chase-hacking-claim-share.jpg"
+  },
+  {
    "slug": "nsa-network-down",
    "date": "2026-11-18",
    "kicker": "Outages · NSA",
